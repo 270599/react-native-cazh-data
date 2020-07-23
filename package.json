@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/PonorogoCreativeIT/react-native-cazh-data.git",
+      "D:\\CAZH\\Cazh-POS\\cazh-pos-mobile"
+    ]
+  ],
+  "_from": "git+https://github.com/PonorogoCreativeIT/react-native-cazh-data.git",
+  "_id": "react-native-cazh-data@git+https://github.com/PonorogoCreativeIT/react-native-cazh-data.git#b625d6c009b37a634649dfab383dd74d3202b317",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-cazh-data",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/PonorogoCreativeIT/react-native-cazh-data.git",
+    "rawSpec": "git+https://github.com/PonorogoCreativeIT/react-native-cazh-data.git",
+    "saveSpec": "git+https://github.com/PonorogoCreativeIT/react-native-cazh-data.git",
+    "fetchSpec": "https://github.com/PonorogoCreativeIT/react-native-cazh-data.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/PonorogoCreativeIT/react-native-cazh-data.git#b625d6c009b37a634649dfab383dd74d3202b317",
+  "_shasum": "84140260d1b05b90a38196329bc043bfe1804bdd",
+  "_spec": "git+https://github.com/PonorogoCreativeIT/react-native-cazh-data.git",
+  "_where": "D:\\CAZH\\Cazh-POS\\cazh-pos-mobile",
+  "author": {
+    "name": "Renan Cardoso Soares",
+    "email": "renan-csoares@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/renancsoares/react-native-cazh-data/issues"
+  },
+  "contributors": [],
+  "deprecated": false,
+  "description": "A port of https://github.com/giorgiofellipe/cordova-plugin-datecs-printer/ for React Native.",
+  "homepage": "https://github.com/renancsoares/react-native-cazh-data#readme",
+  "keywords": [
+    "react-native",
+    "datecs",
+    "printer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-cazh-data",
+  "peerDependencies": {
+    "react-native": "^0.47.2"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renancsoares/react-native-cazh-data.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}
